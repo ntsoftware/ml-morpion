@@ -1,2 +1,4 @@
+*.so
+*.so.DSYM/
 morpion
 morpion.dSYM/

@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "boardwrapper.h": "c",
+        "stdbool.h": "c"
+    }
+}
