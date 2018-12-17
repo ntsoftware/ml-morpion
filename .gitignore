@@ -2,3 +2,5 @@
 *.so.DSYM/
 morpion
 morpion.dSYM/
+minimax
+minimax.dSYM/
